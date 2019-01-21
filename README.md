@@ -1,0 +1,2 @@
+# rosgotest
+Experiments with rosgo 
